@@ -10,9 +10,13 @@ So we have the target website and as a common routine we can go with scanning(NM
 
 <img width="746" height="335" alt="1_B5Ca6aJ6RFxuagzze7GrSA" src="https://github.com/user-attachments/assets/ef8e9620-a644-43a3-bf8a-245c6de2c5bb" />
 
-From the simple port scanning we can come to the conclusion that there no direct http server ot any other service that is running under the target IP.
+From the simple port scanning we can come to the conclusion that there no direct http server at any other service that is running under the target IP.
 
-From the simple port scanning we can come to the conclusion that there no direct http server ot any other service that is running under the target IP.
+The challenge description mentions “Oooh, turns out, this 10.48.188.156 machine is also a DNS server!”. So we can conclude that the target IP is a DNS server.
+
+The next phrase goes like “If we could dig into it, I am sure we could find some interesting records” , so by learing aout the DNS, I found a tool that is named as DIG(Domain Information Groper).
+
+So then by the complete understanding of the description “ this only responds to a special type of request for a givemetheflag.com domain”, i thought that there would any hint under this site.
 
 <img width="1100" height="592" alt="1_QFtr3YfqL5KgzLfzy7oALA" src="https://github.com/user-attachments/assets/9ba1f8d7-fb08-4686-8cf7-99c297628b53" />
 
