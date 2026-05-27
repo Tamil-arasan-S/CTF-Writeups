@@ -1,1 +1,1 @@
-Welcome to this repo where you can get use my write-ups to solve the CTF where you faced a challenge.
+Just a few write-ups of my CTF's
