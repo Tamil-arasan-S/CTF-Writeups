@@ -19,7 +19,7 @@ Basically we have to verify the hash that was provided in the checksum.txt with 
 The above image shows the checksum string that was SHA256.
 Checksum is process that is used to for the integrity of the data that was communicated in the internet. We know that the hash can’t be decrypted until we a wordlist, so the hash file can be used as key to verify the integrity of a file. For an example if a data of [HACKER] was sent from person A to person B. If the person B needs to verify whether the data is not modified during the transmission, the Sender A can send the hash text to person B and verify that the data is not modified during the transmission.
 
-[What is the hash file was also intercepted during the transmission😆😂🤣]
+[What if the hash file was also intercepted during the transmission😆😂🤣]
 
 <img width="1100" height="187" alt="1_8-TxQHm8X-4rsYkELzH9fw" src="https://github.com/user-attachments/assets/d80a0afe-05fb-4d83-9a53-4c2f0ac3630b" />
 
